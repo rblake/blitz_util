@@ -3,7 +3,6 @@
 #include "math.hpp"
 #include <cassert>
 #include <vector>
-#include "debug.h"
 
 using namespace std;
 using namespace blitz;
