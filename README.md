@@ -1,4 +1,5 @@
-bltiz_util
+blitz_util
 ==========
 
-This is a small C++ library for use with blitz.  Public Domain.
+This is a small C++ library for use with blitz++.  Everything in here is Public Domain unless otherwise noted.
+
