@@ -25,6 +25,7 @@ typedef blitz::Array<int, 5> IntData5D;
 #define ALL blitz::Range::all()
 
 #define tensor_sum(A,B) sum(A,B)
+#define total_sum(A) sum(A)
 
 //template<typename TTT>
 //typedef typename blitz::Array<TTT,2> Array2D<TTT>;
